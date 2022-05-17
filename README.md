@@ -5,7 +5,7 @@ My name is Jake, I'm currently a software engineering student at General Assembl
 ![hello-bear-waving](https://user-images.githubusercontent.com/102636860/167697603-c1694d72-6df6-4359-a2dd-480f647d57a1.gif)
 <br></br>
 <p align="center">
-  <img src="[demo.gif](https://user-images.githubusercontent.com/102636860/167697603-c1694d72-6df6-4359-a2dd-480f647d57a1.gif)" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/102636860/167697603-c1694d72-6df6-4359-a2dd-480f647d57a1.gif" alt="animated" />
 </p>
 
 # Socials
