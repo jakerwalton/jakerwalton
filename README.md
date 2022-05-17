@@ -2,13 +2,14 @@
 
 My name is Jake, I'm currently a software engineering student at General Assembly! I have always had a strong passion for crafting super awesome things with nothing but hard work and my own two hands. If you like my work here, feel free to reach out and let me know!
 
+<a href="https://www.linkedin.com/in/jacob-walton-990655234/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="40px"/></a>
+<a href="https://www.instagram.com/wheres_walto_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="40px"/></a>
+<br></br>
+
 <p align="left">
   <img src="https://user-images.githubusercontent.com/102636860/167697603-c1694d72-6df6-4359-a2dd-480f647d57a1.gif" alt="animated" />
 </p>
 
-<a href="https://www.linkedin.com/in/jacob-walton-990655234/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="40px"/></a>
-<a href="https://www.instagram.com/wheres_walto_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="40px"/></a>
-<br></br>
 
 
 
