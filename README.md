@@ -8,7 +8,7 @@
 
 # About Me
 - 👨‍🎓 Currently a software engineering student at General Assembly
-- 👨‍💻 Learning MERN stack software development
+- 👨‍💻 Learning full-stack software development
 - 🍳In my free time I love cooking and creating music🎵
 
 # Current Technical Skils
