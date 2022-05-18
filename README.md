@@ -7,9 +7,9 @@
 
 
 # About Me
-- Currently a software engineering student at General Assembly
-- Learning MERN stack software development
-- In my free time I love cooking and creating music
+- 👨‍🎓 Currently a software engineering student at General Assembly
+- 👨‍💻 Learning MERN stack software development
+- 🍳In my free time I love cooking and creating music🎵
 
 <a href="https://www.linkedin.com/in/jacob-walton-990655234/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="35px"/></a>
 <a href="https://www.instagram.com/wheres_walto_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="35px"/></a>
