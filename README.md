@@ -7,8 +7,8 @@
 
 
 # About Me
-- 👨‍🎓 Currently a software engineering student at General Assembly.
-- 👨‍💻 Learning full-stack software development.
+- Recent software engineering graduate from General Assembly.
+- full-stack software developer.
 - Love to cook and produce music in my pastime
 
 # Current Technical Skils
