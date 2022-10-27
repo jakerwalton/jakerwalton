@@ -7,8 +7,7 @@
 
 
 # About Me
-- Recent software engineering graduate from General Assembly.
-- full-stack software developer.
+- Full-stack web developer at Homefile Inc
 - Love to cook and produce music in my pastime
 
 # Current Technical Skils
